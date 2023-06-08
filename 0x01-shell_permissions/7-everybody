@@ -1,2 +1,2 @@
 #!/bin/bash
-chmos all+x hello
+chmos a+x hello
